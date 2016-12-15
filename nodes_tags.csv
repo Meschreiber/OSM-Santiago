@@ -1,0 +1,132 @@
+id,key,value,type
+338170797,street,Kitcheng,addr
+338170797,phone,3421200,regular
+338170797,amenity,restaurant,regular
+338170797,cuisine,chinese,regular
+338170797,full,Avenida Cristóbal Colón 5930,addr
+338170797,street,Avenida Cristóbal Colón,addr
+338170797,housenumber,5930,addr
+1119396659,street,Coconut Grove,addr
+1119396659,shop,clothes,regular
+1119396659,city,Lo Barnechea,addr
+1119396659,street,Avenida Camino Los Trapenses,addr
+1119396659,country,CL,addr
+1175497480,attribution,Coordinación de Transportes de Santiago,regular
+1175497480,highway,bus_stop,regular
+1175497480,city,Peñalolén,is_in
+1175497480,street,Valle Hermoso / Quebrada Camarones,addr
+1175497480,ref,PD997,regular
+1175497480,ref_name,Valle Hermoso / Quebrada Camarones,regular
+1175497480,route_ref,D08,regular
+1175497480,source,http://www.transantiago.cl,regular
+1175497480,ts_calle,Quebrada Camarones,regular
+1175497480,ts_codigo,L-32-27-SN-15,regular
+1175497480,ts_desde,Lago O'Higgins,regular
+1175497480,ts_hacia,Valle Hermoso,regular
+1175497480,ts_orientacion,SN,regular
+1175671228,ref,PE124,regular
+1175671228,street,Paradero 13 Vicuña Mackenna,addr
+1175671228,source,http://www.transantiago.cl,regular
+1175671228,highway,bus_stop,regular
+1175671228,ref_name,Paradero 13 Vicuña Mackenna,regular
+1175671228,ts_calle,Vicuña Mackenna,regular
+1175671228,ts_desde,Paradero 13 Vicuña Mackenna,regular
+1175671228,ts_hacia,Dr Luis Calvo Mackenna,regular
+1175671228,route_ref,210;224 PM;224;E04;E05 PM,regular
+1175671228,ts_codigo,T-33-134-NS-20,regular
+1175671228,city,La Florida,is_in
+1175671228,attribution,Coordinación de Transportes de Santiago,regular
+1175671228,ts_orientacion,NS,regular
+1242281501,street,Pje Camina,addr
+1242281501,housenumber,5476,addr
+1243856335,street,Avenida Alcalde Eduardo Castillo Velasco,addr
+1243856335,housenumber,998,addr
+1244456700,street,Santa Marta,addr
+1244456700,housenumber,659,addr
+1244620281,street,Pje El Jacaranda 5,addr
+1244620281,housenumber,831,addr
+1244676270,street,Avenida Cristobal Colon,addr
+1244676270,housenumber,3990,addr
+1244745211,street,Pje Amelia Vial,addr
+1244745211,housenumber,1868,addr
+1244876001,street,Pje Tiberio,addr
+1244876001,housenumber,1200,addr
+1245543318,street,Pje Francisco De Aguirre,addr
+1245543318,housenumber,3680,addr
+1245631388,street,Rey Don Felipe,addr
+1245631388,housenumber,1302,addr
+1245697544,street,Pje Caleta Junin,addr
+1245697544,housenumber,1149,addr
+1245837842,street,Nueva Uno,addr
+1245837842,housenumber,4199,addr
+1246050208,street,Gullermo Mann,addr
+1246050208,housenumber,2560,addr
+1246224279,street,Melchor Concha Y Toro,addr
+1246224279,housenumber,71,addr
+1246309221,street,Liszt,addr
+1246309221,housenumber,632,addr
+1249900269,street,Avenida Oriental,addr
+1249900269,housenumber,6749,addr
+1249975903,street,Alonso de Camargo,addr
+1249975903,housenumber,6600,addr
+1250026476,street,LatadÃ­a,addr
+1250026476,housenumber,5656,addr
+1250141462,street,Pje Isidora Zegers,addr
+1250141462,housenumber,1702,addr
+1250220858,street,San Antonio De Padua,addr
+1250220858,housenumber,10501,addr
+1250265766,street,Antupien,addr
+1250265766,housenumber,8972,addr
+1250338025,street,Socos,addr
+1250338025,housenumber,9251,addr
+1251241877,street,Cuncumen,addr
+1251241877,housenumber,272,addr
+1251348475,street,Pje San Gaston,addr
+1251348475,housenumber,9414,addr
+1251470778,street,Las Higueras,addr
+1251470778,housenumber,3579,addr
+1251714579,street,Los Alelies,addr
+1251714579,housenumber,6243,addr
+1251807233,street,Avenida Pedro de Valdivia,addr
+1251807233,housenumber,7585,addr
+1252460605,street,Molina,addr
+1252460605,housenumber,4099,addr
+1252551699,street,Tololo,addr
+1252551699,housenumber,4208,addr
+1253025430,street,Avenida 5 de Abril,addr
+1253025430,housenumber,5082,addr
+1253121412,street,Avenida Oceania,addr
+1253121412,housenumber,325,addr
+1259817939,street,Rosembluth,addr
+1259817939,housenumber,1013,addr
+1260832128,street,Pasaje Maracaibo,addr
+1260832128,housenumber,5692,addr
+1262400561,street,San Ignacio,addr
+1262400561,housenumber,1401,addr
+1262458501,street,Los Tehuelches,addr
+1262458501,housenumber,617,addr
+1263970385,street,Escribano Diego Rutal,addr
+1263970385,housenumber,2959,addr
+1264049667,street,Mar Blanco,addr
+1264049667,housenumber,1834,addr
+1264238906,street,Catedral,addr
+1264238906,housenumber,3000,addr
+1265026627,street,El Carrillon,addr
+1265026627,housenumber,6554,addr
+1265195445,housenumber,1592,addr
+1265195445,street,Huelen,addr
+1272463130,street,Antonio Maceo,addr
+1272463130,housenumber,2800,addr
+1279297286,street,Pasaje Las Caravelas,addr
+1279297286,housenumber,381,addr
+1281556022,street,Pje Longavi,addr
+1281556022,housenumber,262,addr
+1369086922,noexit,yes,regular
+1369086922,source,Bing,regular
+2431616444,natural,peak,regular
+2467654598,street,Floreria,addr
+2467654598,shop,florist,regular
+2498346050,highway,give_way,regular
+2776461968,highway,traffic_signals,regular
+4170616462,emergency,fire_hydrant,regular
+4221740309,natural,tree,regular
